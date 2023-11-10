@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Bubble",
+    "slug": "Bubble",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.alphak.Bubble"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "46339aa2-fe6d-4744-97b5-edc068f83a99"
+      }
+    }
+  }
+}
